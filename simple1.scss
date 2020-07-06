@@ -63,10 +63,18 @@ body {
   background-color: white;
   text-align: center;
   justify-content: center;
-  font-size: 1px;
 }
 
 .refresh {
   width: 18px;
   height: 12px;
+}
+
+/* FOOTER*/
+footer {
+  justify-content: center;
+  text-align: center;
+  display: inline;
+  font-family: monospace;
+  color: black;
 }
