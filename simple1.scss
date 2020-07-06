@@ -1,0 +1,71 @@
+/*MAIN*/
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+/* WIDGET CONTAINER*/
+.container {
+  width: 564px;
+  height: 436px;
+  border: 1px solid black;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.widget {
+  padding: 20px 26px 20px 22px;
+}
+
+/* TEXT*/
+.title {
+  font-family: "Muli", sans-serif;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 1;
+  letter-spacing: -3.5px;
+  margin-top: -76px;
+  margin-left: -6px;
+}
+
+.details {
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: -1px;
+  font-size: 16px;
+  margin-top: -38px;
+  margin-left: 3px;
+}
+
+.city {
+  margin-left: 25px;
+}
+
+/* BUTTON*/
+.btn-see-another {
+  border: solid 1px black;
+  padding: 13px 25px 13px 25px;
+  border-radius: 25px;
+  margin-top: 15px;
+  margin-left: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: white;
+  
+}
+
+.refresh {
+  width: 18px;
+  height: 12px;
+}
