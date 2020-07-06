@@ -13,7 +13,6 @@ Icons made by  [Flaticon](https://www.flaticon.com/authors/pixel-perfect)
 
 ## Hosted on 
 - [Github Pages](https://nicolsaha.github.io/end-of-field-challenge/)
-- [Netlify](#)
 
 ### Open Sourced
 
